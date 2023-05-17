@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aurora Yu.
+- 👋 Hi, I’m Anran, a Saturnese.
 - 👀 I’m interested in SAS/R, Pharmacokinetics.
 - 🌱 I’m currently learning SAS and statistical knowledge.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m aspiring to become the greatest SAS programmer.
+- 📫 How to reach me ... go to the Saturn
 
 <!---
 Aurora19960724/Aurora19960724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
